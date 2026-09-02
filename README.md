@@ -4,6 +4,7 @@ This repository contains data and code needed to replicate the analysis presente
 
 In this repository you will find the [code](/Replication_CodeGitHub.R) and [data](/Data_fecun.xlsx) needed to replicate our analysis. 
 
+## Codebook
 The data includes the following variables:
 * Year = Year of Observation
 * Nacimientos = Total Births
